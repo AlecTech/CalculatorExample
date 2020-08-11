@@ -6,6 +6,8 @@ namespace Aug11
     {
         static void Main(string[] args)
         {
+            Console.ReadLine();
+            
             Console.WriteLine("Hello World!");
         }
     }
